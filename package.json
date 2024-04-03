@@ -1,0 +1,16 @@
+{
+  "name": "go-tea-oss",
+  "version": "1.0.0",
+  "description": "A project for managing tea-related tasks and operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["tea", "management", "operations", "tasks"],
+  "author": "Khurshed Yusufov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khurshedyu/go-tea-oss.git"
+  }
+}
