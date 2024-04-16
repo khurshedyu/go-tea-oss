@@ -1,6 +1,6 @@
 {
   "name": "go-tea-oss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A project for managing tea-related tasks and operations.",
   "main": "index.js",
   "scripts": {
